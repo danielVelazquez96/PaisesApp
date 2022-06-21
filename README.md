@@ -2,7 +2,7 @@
 
 Programa que permite consultar informacion de paises a traves de diferentes busquedas consumidas por una API local
 
-## Framwork Utilizado
+## Framwork
 [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
 ## Propocitos de desarrollo
@@ -16,10 +16,10 @@ Poner en practia los conocimientos desarrollados de Angular para poder integrar 
 - Entendimiento del ciclo de vida de angular.
 - Debouncer para mostrar sugerencias de busquedas
 
-## Link on netfly
+## Link de deploy
 https://paisesbusqueda.netlify.app
 
-## Images
+## Imagagen
 
 ![Pantalla de busqueda por region](https://res.cloudinary.com/dxi9i9ucm/image/upload/v1655825777/shux1ffcyl0trggpuznq.jpg)
 
