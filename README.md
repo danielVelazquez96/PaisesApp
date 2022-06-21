@@ -19,7 +19,7 @@ Poner en practia los conocimientos desarrollados de Angular para poder integrar 
 ## Link de deploy
 https://paisesbusqueda.netlify.app
 
-## Imagagen
+## Imagen
 
 ![Pantalla de busqueda por region](https://res.cloudinary.com/dxi9i9ucm/image/upload/v1655825777/shux1ffcyl0trggpuznq.jpg)
 
