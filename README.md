@@ -1,6 +1,6 @@
 # PaisesApp
 
-Programa que permite consultar informacion de paises a traves de diferentes busquedas consumidas por una API local
+Programa que permite consultar informacion de paises a traves de diferentes busquedas consumidas por una API gratuita
 
 ## Framwork
 [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
